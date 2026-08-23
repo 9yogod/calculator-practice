@@ -1,8 +1,8 @@
 # Calculator
 
-A tiny Python calculator module for basic arithmetic operatons.
+A tiny Python calculator module for basic arithmetic operations.
 
-## Instalation
+## Installation
 
 No installation needed — just copy `calculator.py` into your project.
 
